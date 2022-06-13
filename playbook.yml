@@ -1,0 +1,5 @@
+---
+- name: manage apps
+  vars:
+  tasks:
+  - name: manage appserver
