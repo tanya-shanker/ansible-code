@@ -1,0 +1,10 @@
+---
+
+- name:
+  hosts:
+  remote_user:
+  become:
+
+ task:
+- name:
+
