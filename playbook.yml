@@ -1,11 +1,12 @@
 ---
 
-- name:
+- name: manage apps
   hosts:
   gather_facts:
   remote_user:
   become:
-
- task:
-- name:
+  vars:
+ 
+ tasks:
+  - name: manage appserver
 
